@@ -3,7 +3,7 @@
 **I’m a Full-stack web developer focused on building solutions for real-life problems, most of the time using JavaScript.**
 
 - 🔭 I’m currently working with React & Node.js.
-- 🌱 I’m currently learning more about Data Science and AI.
+- 🌱 I’m currently learning more about Web3/Blockchain development.
 - ⚡ I love playing chess. If you also like it, let's play a match!
 
 Please take a look at [my portifolio](https://luanmotta.com/) to find more about my experiences and skills.
