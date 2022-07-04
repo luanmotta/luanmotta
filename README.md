@@ -1,4 +1,4 @@
-# Hello everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello everyone!
 
 **I’m a Full-stack web developer focused on building solutions for real-life problems, most of the time using JavaScript.**
 
