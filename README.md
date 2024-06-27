@@ -15,4 +15,4 @@ Please take a look at [my portifolio](https://luanmotta.com/) to find more about
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 \
-Note: I also worked on gitlab private repositories in the past few years, so you can check [my contributions](https://gitlab.com/luanmotta) there as well.
+Note: I also worked on gitlab repositories in the past few years, so you can check [my contributions](https://gitlab.com/luanmotta) there as well.
